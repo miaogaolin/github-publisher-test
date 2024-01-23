@@ -4,4 +4,4 @@ cover:
   image: "4444"
 ---
 
-{{< figure src="/images/hello-20240123095322250.webp"  width="200" height="100">}}
+{{< figure src="/images/hello-20240123095322250.webp" caption="你好" width="200" height="100">}}
