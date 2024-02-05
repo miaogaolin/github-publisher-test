@@ -1,9 +1,5 @@
 ---
 share: true
-cover.image: "4444"
----
----
-share: true
 cover:
     image: "4444"
 ---
