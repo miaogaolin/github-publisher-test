@@ -1,6 +1,6 @@
 ---
 cover:
-  image: "5555"
+  image: "7777"
 share: true
 ---
 
